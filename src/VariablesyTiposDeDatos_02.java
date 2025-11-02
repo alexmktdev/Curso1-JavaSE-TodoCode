@@ -22,8 +22,5 @@ public class VariablesyTiposDeDatos_02 {
         System.out.println("Mi edad es " + edad);
         System.out.println("la edad es " + edad + " y la estatura: " + estatura);
         System.out.println("Mi direccion es: " +direccion);
-
-
-
     }
 }
