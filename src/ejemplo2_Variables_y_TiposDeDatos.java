@@ -1,5 +1,5 @@
 
-public class VariablesyTiposDeDatos_02 {
+public class ejemplo2_Variables_y_TiposDeDatos {
     public static void main(String[] args) {
 
         // declaración de variables
