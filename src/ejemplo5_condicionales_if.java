@@ -22,5 +22,7 @@ public class ejemplo5_condicionales_if {
             System.out.println("La persona es menor de edad ! ");
         }
 
+
+
     }
 }
