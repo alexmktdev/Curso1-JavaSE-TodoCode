@@ -12,13 +12,13 @@ public class ejemplo7_condicional_clasificar_nota {
 
         if (nota >= 6.5) {
             System.out.println("Excelente");
-        } else if (nota >= 6.0) {
+        }else if (nota >= 6.0) {
             System.out.println("Muy Bueno");
-        } else if (nota >= 5.0) {
+        }else if (nota >= 5.0) {
             System.out.println("Bueno");
-        } else if (nota >= 4.0) {
+        }else if (nota >= 4.0) {
             System.out.println("Suficiente");
-        } else { // si la nota es menor que 4
+        }else { // si la nota es menor que 4
             System.out.println("Reprobado");
         }
 
