@@ -1,12 +1,14 @@
 // ejemplo switch case
 
-// la condicion debe ser simple
+// la condición debe ser simple
 
 
 import java.util.Scanner;
 
 public class ejemplo8_switch1 {
     public static void main(String[] args) {
+
+        // declaración de variables
         int dia;
         String nombre_dia;
 
