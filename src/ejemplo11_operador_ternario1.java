@@ -31,3 +31,9 @@ public class ejemplo11_operador_ternario1 {
         System.out.println("La condicion final del alumno es: " + condicionFinal + " su promedio fue: " + promedio ); // imprimimos la respuesta posible
     }
 }
+
+/*
+    Sintaxis Operador Ternario
+
+    salida_operador_ternario = condicion ? resultado si se cumple la condicion : resultado si no se cumple la condicion;
+ */
