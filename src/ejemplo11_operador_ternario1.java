@@ -28,6 +28,6 @@ public class ejemplo11_operador_ternario1 {
 
         // operador ternario ( se usa en casos sencillos con dos opciones, pero se pueden anidar)
         condicionFinal = promedio >= 4.0 ? "Alumno Aprobado" : "Alumno Reprobado";
-        System.out.println("La condicion final del alumno es: " + condicionFinal); // imprimimos la respuesta posible
+        System.out.println("La condicion final del alumno es: " + condicionFinal + " su promedio fue: " + promedio ); // imprimimos la respuesta posible
     }
 }
