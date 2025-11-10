@@ -16,7 +16,6 @@ public class ejemplo9_calculadora_con_switch{
         // se activa la entrada
         Scanner teclado = new Scanner(System.in);
 
-
         System.out.print("Ingresa el primer número: ");
         num1 = teclado.nextDouble(); // entrada double (num1)
 
@@ -26,7 +25,7 @@ public class ejemplo9_calculadora_con_switch{
         System.out.print("Elige una operación (+, -, *, /): ");
         operacion = teclado.next().charAt(0);  // entrada char para la operación
 
-        // se evaluan la operación de entrada en el switch case
+        // se evalúan la operación de entrada en el switch case
         switch (operacion) {
             case '+': // si se ingresa un +
                 resultado = num1 + num2;
