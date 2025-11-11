@@ -17,8 +17,27 @@ y dependiendo de esta realiza los siguientes controles:
 
 Realizar el programa necesario para llevar a cabo los 3 controles citados.
 
- Punto extra**
+
+Punto Extra
+
+Solicitar, además de la cantidad de paquetes, el costo total que suma la compra en USD,
+y aplicar las siguientes promociones:
+
+- Si el monto total es inferior a 100 USD:
+  No hay promociones. Informar cuántos USD más necesita para poder entrar a una promoción.
+
+- Si el monto supera los 100 USD pero es menor a los 300 USD:
+  Informar que posee un descuento del 5% sobre el total.
+  Especificar cuánto sería el nuevo monto total con descuento.
+
+- Si el monto supera los 300 USD:
+  Informar que posee un descuento del 10%.
+  Especificar cuánto sería el nuevo monto total con descuento.
+
+www.todocodeacademy.com
 */
+
+
 
 import java.util.Scanner;
 
