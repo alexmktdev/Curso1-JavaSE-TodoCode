@@ -36,9 +36,6 @@ y aplicar las siguientes promociones:
 
 www.todocodeacademy.com
 */
-
-
-
 import java.util.Scanner;
 
 public class ejemplo12_integrador2 {
